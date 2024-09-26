@@ -1,3 +1,6 @@
+// Charlie Cardenas
+// Assignment 1: CL Interpreter
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
